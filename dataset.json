@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a city-wide market scope.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Whales in Los Angeles, US",
+  "export_job_id": "89cfdad1-f236-4d77-8987-8fe4c69c3167",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 773897,
+  "location_name": "Los Angeles",
+  "location_type": "city",
+  "repo_name": "top-30-active-restaurant-whales-in-los-angeles-us-sample-773897",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/773897/beamstation_773897_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 349,
+  "sample_sha256": "bae6a4d46ec9fdee7a7f1250c5a71d2d84ac8aa25c7e7eb94ba71715fc1f44c8",
+  "sample_size_bytes": 1431724,
+  "total_records": 3495,
+  "updated_at": "2026-04-08T04:59:01.813876+00:00"
+}
