@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2ffb127d-4fc1-4f75-8003-db2f62714ffd",
+  "export_job_id": "b0ef0f91-b7ff-4081-be95-3df3080f9c75",
   "id_short": 773897,
-  "published_at": "2026-04-19T07:38:32Z",
+  "published_at": "2026-04-23T07:10:06Z",
   "repo_name": "top-30-active-restaurant-whales-in-los-angeles-us-sample-773897",
   "sample_asset_name": "beamstation_773897_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/773897/beamstation_773897_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 344,
-  "sample_sha256": "eff921b7d4f50c741027ced3e03e3e15cf3902a3bdd7e1f18df0e10ce39925f9",
-  "sample_size_bytes": 1422018,
-  "total_records": 3441
+  "sample_records": 335,
+  "sample_sha256": "f66f4ef1222beba613823e6c7d1fee72ecdbba38d46f192b034cac4b94da453f",
+  "sample_size_bytes": 1363901,
+  "total_records": 3357
 }
