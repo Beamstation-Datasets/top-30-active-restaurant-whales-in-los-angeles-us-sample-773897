@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Whales in Los Angeles, US
 
-> Free BeamStation sample export with 335 rows and masked direct-contact fields.
+> Free BeamStation sample export with 16 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `773897` |
 | Location | Los Angeles |
 | Category | Restaurants |
-| Full dataset size | 3,357 records |
-| Free sample size | 335 records (9.98%) |
-| Last export | 2026-04-22T15:28:56.670101+00:00 |
+| Full dataset size | 164 records |
+| Free sample size | 16 records (9.76%) |
+| Last export | 2026-04-29T15:01:41.723147+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-whales-in-los-angeles-us-sample-773897/releases/download/sample-latest/beamstation_773897_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
